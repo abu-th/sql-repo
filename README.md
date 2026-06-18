@@ -1,4 +1,4 @@
-# 🗄️ SQL Data Analysis Project — Data Technician Bootcamp
+# 🗄️ SQL Data Analysis Project 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=180&section=header&text=SQL%20Data%20Analysis%20Project&fontSize=30&fontColor=ffffff"/>
